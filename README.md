@@ -1,6 +1,6 @@
 # Website Test
 
-This repository contains a simple sample website served using Node.js and Express.
+This repository contains a simple website that displays the message "Om Namo Narayana!" using a Node.js and Express server.
 
 ## Running Locally
 
